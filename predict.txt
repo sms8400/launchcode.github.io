@@ -1,0 +1,16 @@
+NOTE: This is a text file, so clicking "Run" will NOT execute the code!
+
+
+if (crewStatus && computerStatusCode === 200 && spaceSuitsOn) {
+   console.log("all systems go");
+} else {
+   console.log("WARNING. Not ready");
+}
+
+
+
+if (!crewStatus | computerStatusCode !== 200 | !spaceSuitsOn) {
+   console.log("WARNING. Not ready");
+} else {
+   console.log("all systems go");
+}
