@@ -1,11 +1,12 @@
 li {
-    border-bottom: 2px solid orange;
+    border-bottom: 2px solid black;
+    border-radius: 10px 10px;
     display: inline-table; 
     padding: .9%; 
     margin: 10px; 
     font-size: large;
     box-shadow: 5px 5px 5px steelblue;
-    /* list-style: none; */
+    list-style: none;
     width: 13%; 
     background: linear-gradient(to right, steelblue 50%, white 50%);
     background-size: 200% 100%;
