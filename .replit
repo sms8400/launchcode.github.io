@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "reverse-Function-with-Tests-Expectations.js"
 
 hidden = [".config"]
 
