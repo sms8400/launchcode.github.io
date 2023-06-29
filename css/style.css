@@ -1,0 +1,16 @@
+li {
+    /* border: 1px solid red; */
+    border-bottom: 2px solid red;
+    display: inline-table; 
+    padding: .9%; 
+    margin: 10px; 
+    font-size: large;
+    box-shadow: 5px 5px 5px steelblue;
+    list-style: none;
+    width: 13%; 
+ }
+ h1#test {
+    margin-right: 33%; 
+    margin-left: 33%; 
+    width: 25%;
+ }
