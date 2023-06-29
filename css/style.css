@@ -1,16 +1,44 @@
 li {
-    /* border: 1px solid red; */
-    border-bottom: 2px solid red;
+    border-bottom: 2px solid orange;
     display: inline-table; 
     padding: .9%; 
     margin: 10px; 
     font-size: large;
     box-shadow: 5px 5px 5px steelblue;
-    list-style: none;
+    /* list-style: none; */
     width: 13%; 
+    background: linear-gradient(to right, steelblue 50%, white 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    transition: all .5s ease-out;
  }
+
  h1#test {
     margin-right: 33%; 
     margin-left: 33%; 
     width: 25%;
+ }
+
+ li:hover {
+   border-bottom: 2px solid orangered;
+ }
+
+
+ li:hover {
+   background-position: left bottom;
+ }
+ 
+ .text {
+   text-align: center;
+   font-size: 16px;
+   font-weight: bold;
+   line-height: 30px; 
+   color: steelblue;
+   transition: all .6s ease-out;
+   display: block;
+ }
+ 
+ .text:hover {
+   color: white;  
+   font-size: 20px;
  }

@@ -94,9 +94,12 @@ var data = [
         
         // create the attributes for the link and add the content 
         anchor.setAttribute('href', LC_GitHUB.base + d);
+        anchor.setAttribute("class", "text")
         anchor.textContent = d;
 
         // add the list item and and link to the UI
         li.append(anchor);
         _repo.append(li)
-    }
+    }; 
+
+    
