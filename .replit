@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "ObjectsStudio03.js"
 
 hidden = [".config"]
 
