@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "Intro-To-Method-Chaining.js"
 
 hidden = [".config"]
 
