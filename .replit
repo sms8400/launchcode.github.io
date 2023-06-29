@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "Validator-check.js"
 
 hidden = [".config"]
 
