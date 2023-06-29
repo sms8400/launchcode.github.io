@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "TDDStarterExpectations.js"
 
 hidden = [".config"]
 
