@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "DNA-strings.js"
 
 hidden = [".config"]
 
