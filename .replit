@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "StringExercises05.js"
 
 hidden = [".config"]
 
