@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "RecursionExample01.js"
 
 hidden = [".config"]
 
