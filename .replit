@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "WhileLoopExercises.js"
 
 hidden = [".config"]
 
