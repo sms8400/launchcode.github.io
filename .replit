@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "UnitTestingStudio.js"
 
 hidden = [".config"]
 
