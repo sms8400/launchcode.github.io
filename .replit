@@ -1,4 +1,4 @@
-entrypoint = "index.js"
+entrypoint = "MoreFunctionsExercises01"
 
 hidden = [".config"]
 
