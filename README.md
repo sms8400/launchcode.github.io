@@ -18,3 +18,15 @@
   5. On your system, navigated to the downloaded content and move or unpack the **ZIP** folder to a project directory
      1. If, you moved the file to your project directory, unpack the **ZIP** folder 
   6. Create a `.gitignore` file add `replit*.* ` and `.replit`</strong> to `.gitignore` file 
+
+# 
+
+## Visual Studio Install 
+Download [Visual Studio Code](https://code.visualstudio.com/download/)
+
+#
+
+| Platform  | System Architecture   | 
+|---        |---                    |
+| Windows  | Click the Windows download button  | 
+| MacOS  |  CLI : Apple silicon  | 
