@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# replit and nix files 
+*nix
+*.replit
+
 # C extensions
 *.so
 

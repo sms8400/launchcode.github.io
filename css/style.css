@@ -1,4 +1,4 @@
-li {
+.repo-links {
     border-bottom: 2px solid black;
     border-radius: 10px 10px;
     display: inline-table; 
@@ -14,18 +14,20 @@ li {
     transition: all .5s ease-out;
  }
 
- h1#test {
-    margin-right: 33%; 
-    margin-left: 33%; 
-    width: 25%;
+p{
+  font-size: 17px; 
  }
 
- li:hover {
+ #desc{
+  line-height: .5px; 
+ }
+
+ .repo-links:hover {
    border-bottom: 2px solid orangered;
  }
 
 
- li:hover {
+ .repo-links:hover {
    background-position: left bottom;
  }
  
@@ -42,4 +44,12 @@ li {
  .text:hover {
    color: white;  
    font-size: 20px;
+ }
+
+ button {
+  font-family: co;
+  background-color: #1f883d;
+  color: white;
+  border-radius: 5px;
+  font-weight: bold;
  }

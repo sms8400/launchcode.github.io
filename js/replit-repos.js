@@ -93,6 +93,7 @@ var data = [
         var anchor = document.createElement("a");~
         
         // create the attributes for the link and add the content 
+        li.setAttribute("class", "repo-links")
         anchor.setAttribute('href', LC_GitHUB.base + d);
         anchor.setAttribute("class", "text")
         anchor.textContent = d;
