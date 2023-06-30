@@ -10,9 +10,9 @@
 ## Usage:
   These instructions assume you have a Git repository setup for tracking file changes on your Operating System.
   1. Find the repository that you need to run the example
-  2. Click the link to go to the github repository.
+  2. Click the link to go to the Github repository.
   3. On Github, navigate to the **green "Code" button Code** and Click the down arrow.
   4. Navigate to **"Download ZIP"** option to download the source code.
   5. On your system, navigated to the downloaded content and move or unpack the **ZIP** folder to a project directory
      1. If, you moved the file to your project directory, unpack the **ZIP** folder 
-  6. Create a `gitignore` file add `replit*.* ` and `.replit`</strong> to `gitignore` file 
+  6. Create a `.gitignore` file add `replit*.* ` and `.replit`</strong> to `.gitignore` file 
