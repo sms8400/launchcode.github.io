@@ -30,6 +30,12 @@ p{
  .repo-links:hover {
    background-position: left bottom;
  }
+
+ #lc-logo {
+  width: 147px; 
+  height: 200px;
+  float: right;
+ }
  
  .text {
    text-align: center;
