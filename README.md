@@ -9,6 +9,8 @@
   
 ## Usage:
   These instructions assume you have a Git repository setup for tracking file changes on your Operating System.
+  Alternatively, `replit*.*` and `.replit` can be removed 
+  
   1. Find the repository that you need to run the example
   2. __Click__ the link to go to the Github repository.
   3. On Github, navigate to the **green "Code" button** and __Click__ the down arrow.
